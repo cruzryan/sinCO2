@@ -1,8 +1,5 @@
-# Svelte + Vite
+# SinCO2
 
-This template should help get you started developing with Svelte in Vite.
+To run remember to npm install with node! or else it wont work! 
 
-The entry point for the app can be found in /src/App.svelte.
-
-
-See svelte.dev to get started with Svelte!
+This was all coded in replit, so you can literally drag it over to replit and it will run!
